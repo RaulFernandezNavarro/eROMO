@@ -8,4 +8,4 @@ the system can work on a simple battery. To eliminate the plug inconvenient, a 5
 an autosustainable system.
 
 The screen is connected to an embedded ESP-32 microcontroller with WiFi/Bluetooth connection. This microcontroller fetches a new picture from the cloud periodically 
-and updates the screen. In addition, I plan to add a smartphone functionality for it.
+and updates the screen. In addition, I plan to add a smartphone functionality for it. The whole system is embedded into a plant's pot (also 3D designed and printed).
